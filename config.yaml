@@ -1,0 +1,12 @@
+title: Testlify Netlify
+languageCode: en-us
+baseurl: https://netlify.sprinkle.cloud/
+theme: vec
+menu:
+  main:
+    - Name: posts
+      URL: /post
+params:
+  Description: Asdf
+  SelfIntro: Just a test of netlify and hugo.
+
