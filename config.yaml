@@ -7,6 +7,7 @@ menu:
     - Name: posts
       URL: /post
 params:
+  Avater: fizzbuzzclub-logo.png
   Description: Asdf
   SelfIntro: Just a test of netlify and hugo.
 
